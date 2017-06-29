@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<svg>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+/>
+
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(111,-477.3622)">
+    <path
+       style="fill:#8fe3ee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -110,521.3622 c 0,0 113,29 171,29 58,0 185,-73 237,-73 52,0 98.90257,52.73886 185.42434,49.68431 C 483.42434,578.15634 483,643.3622 483,643.3622 l -594,0 z"
+       id="path4312"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscccc" />
+    <path
+       sodipodi:nodetypes="csscccc"
+       inkscape:connector-curvature="0"
+       id="path4314"
+       d="m -110,494.28413 c 0,0 90.27855,-38.70839 148,-31.77073 61,7.3317 96,69.65123 250,69.65123 52,0 85.82542,-26.2065 195.42434,-30.93455 C 483.42434,563.68381 483,643.3622 483,643.3622 l -594,0 z"
+       style="fill:#8fe3ee;fill-opacity:0.51898738;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

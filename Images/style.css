@@ -1,0 +1,80 @@
+body{
+	background: #0C0013;
+	margin: 0;
+}
+.wrapper{
+	position: relative;
+}
+#particles-js{
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+}
+.meteor {
+  height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+svg {
+  height: 250vh;
+  position: absolute;
+  left: 60%;
+  top: -200%;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  -webkit-transform-origin: left bottom;
+          transform-origin: left bottom;
+}
+.texts
+{
+	position: absolute;
+	width: 35vw;
+	top: 50%;
+	left: 5vw;
+	color: white;
+	text-align: right;
+	padding: 1rem 5rem 2rem;
+	transform: translateY(-50%);
+	border-radius: 3px;
+	
+	background: linear-gradient( to bottom right, rgba(179,27,110,0.8) , rgba(42,25,50,0.8) 80%);
+	box-shadow: -10px 60px 120px rgba(0,0,0,0.7);
+}
+.texts h1, h2, h3, p, span{
+	margin: 0;
+	font-family: 'Roboto Condensed', sans-sherif;
+	font-weight: 300;
+}
+.texts h1{
+	margin-top: -1rem;
+}
+.texts h1, h2{
+	font-size: 7rem;
+	font-family: 'Ceviche One', cursive;
+}
+
+.texts h3{
+	font-size: 2rem;
+	margin: 0.8rem 0;
+}
+.texts p{
+	font-size: 2rem;
+	padding-top: 1rem
+}
+#time{
+	font-size: 3.5rem;
+
+}
+.line{
+	width: 6rem;
+	height: 0.15rem;
+	background: white;
+	display: block;
+	position: absolute;
+	right: 5rem;
+	border-radius: 0.15rem;
+}
+.to-go{
+	font-size: 3rem
+}
